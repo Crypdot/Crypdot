@@ -9,7 +9,7 @@ I'm a Software Engineering student with solid foundations in both web- and softw
   <img src="https://skillicons.dev/icons?i=vim,vscode,docker,raspberrypi,linux,python,java,javascript,react,vue,docker,nodejs,c,cpp,cs" />
 </p>
 
-## :bar_chart: Activities
+## :bar_chart: Activities 
 
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypdot&layout=compact&theme=radical" />
