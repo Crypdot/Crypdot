@@ -6,6 +6,8 @@ I'm a Software Engineering student with solid foundations in both web- and softw
   <a href="https://app.hackthebox.com/profile/1451280">
     <img src="https://www.hackthebox.com/badge/image/1451280" />
   </a>
+  <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/crypdot.png" alt="TryHackMe">
   <img src="https://skillicons.dev/icons?i=vim,vscode,docker,raspberrypi,linux,python,java,javascript,react,vue,docker,nodejs,c,cpp,cs" />
 </p>
 
