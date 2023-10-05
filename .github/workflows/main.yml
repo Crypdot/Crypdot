@@ -4,7 +4,7 @@
 name: Generate Snake
 
 permissions: 
-  id-token: write
+  id-token: write 
 
 # Controls when the action will run.
 on:
