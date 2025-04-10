@@ -1,5 +1,9 @@
 ## :snake: Backend & Cybersec
-I'm a Software Engineering student with solid foundations in both web- and software development, as well as a healthy appetite for finding out how things work — and how to make them <i>not</i> work, at that —. I also make a hobby out of studying cybersecurity and penetration testing on my free time in online communities such as Hack The Box and Try Hack Me, relishing the challenge of cracking another box. I am looking forward to building a proper career in the back end, developing secure software products, as well as adding to my growing toolbox of cybersecurity-related knowhow.
+Programmer with solid foundations in both web- and software development, as well as a healthy appetite for finding out how things work — and how to make them <i>not</i> work, at that —. I also make a hobby out of studying cybersecurity and offensive security on my free time in online communities such as Hack The Box and Try Hack Me, relishing the challenge of cracking another box. I'm keen on building a proper career in the backend, developing secure software products, as well as adding to my growing toolbox of cybersecurity-related knowhow. 
+
+Currently working as a penetration tester. 
+
+Working on working on more things.
 
 ## :technologist: Skills & Hobbies
 <p align="center">
