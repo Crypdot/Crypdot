@@ -12,7 +12,7 @@ Working on working on more things.
   </a>
   <img src="https://tryhackme-badges.s3.amazonaws.com/crypdot.png" alt="TryHackMe">
   <br>
-  <img src="https://skillicons.dev/icons?i=vim,docker,arduino,raspberrypi,linux,nix,python,java,javascript,react,vue,nodejs,c,cpp,rust,obsidian" />
+  <img src="https://skillicons.dev/icons?i=vim,docker,arduino,raspberrypi,linux,nix,python,java,javascript,react,vue,nodejs,c,cpp,rust,obsidian&perline=8" />
 </p>
 
 
